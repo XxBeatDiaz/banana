@@ -1,1 +1,1 @@
-ahjha
+print(4)
